@@ -27,16 +27,3 @@ Note: Some pyang check issues of Huawei YANG files are not completely cleared bu
 
 ### check-models.sh ###
    Check all YANG files in the folder.
-
-
-
-is it a copy?
-
-
-
-
-
-
-
-
-
